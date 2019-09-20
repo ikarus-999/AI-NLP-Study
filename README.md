@@ -16,3 +16,4 @@ Study
  momentum --> 가속도 ==> adam optimizer
  시뮬레이티드 어닐링 : 
  딥러닝 목표 : 지역 최소값 
+ 
