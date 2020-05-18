@@ -3,3 +3,5 @@
 -----------
 
 #2 TF2.0, numpy, konlpy
+
+#3 Dataset : Naver Movie Sentiment....NSMC
